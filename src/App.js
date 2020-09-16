@@ -4,7 +4,7 @@ import Home from './components/pages/Home';
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
 import About from './components/pages/About';
 import Services from './components/common/services';
-
+import Contact from './components/pages/Contact';
 
 class App extends Component {
   render () {
@@ -28,6 +28,10 @@ class App extends Component {
             component = {Services}
           />
 
+          <Route
+            path = "/contact"
+            component = {Contact}
+          />
 
         </PageWrapper>
       </Router>
