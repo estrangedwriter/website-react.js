@@ -12,8 +12,8 @@ class About extends Component{
                     buttonText = "Tell me more"
                     link = "/services"
                     showButton = {true}
-                
                 />
+                
                 <section className="page-section" id="about">
                     <div className="container">
                         <div className="text-center">
