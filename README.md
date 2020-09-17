@@ -9,8 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-![Image of website]
-(https://github.com/estrangedwriter/website-react.js/blob/master/website.png)
+![Image of website](https://github.com/estrangedwriter/website-react.js/blob/master/website.png)
 
 
 > git clone the repo
